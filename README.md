@@ -8,5 +8,5 @@ I'm a Developer and i am still developing.<br>
 ⚡ Fun fact: I love to play football(virtual/real).<br>
 Let's connect:- https://linktr.ee/bibekkunwar
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBK010&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBK010&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBK010&hide_progress=true)
