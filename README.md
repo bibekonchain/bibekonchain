@@ -37,15 +37,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BBK010&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect With Me
 
