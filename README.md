@@ -43,17 +43,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BBK010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBK010&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibekonchain&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekonchain&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BBK010&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibekonchain&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BBK010&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bibekonchain&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🤝 Connect With Me
@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BBK010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bibekonchain&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
