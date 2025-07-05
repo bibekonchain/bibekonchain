@@ -58,7 +58,7 @@
 
 ## 📈 GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=bibekonchain&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bibekonchain&theme=radical)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
