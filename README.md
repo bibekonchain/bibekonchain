@@ -71,7 +71,7 @@
   <a href="https://linktr.ee/bibekkunwar" target="_blank">
     <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
   </a>
-  <a href="https://bibekportfolio.vercel.app/" target="_blank">
+  <a href="https://bibekkunwar1.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/bibekonchain/" target="_blank">
