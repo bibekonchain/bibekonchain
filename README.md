@@ -13,7 +13,7 @@ I'm a passionate developer who believes in continuous growth and learning. Wheth
 - 🔭 Currently working on exciting full-stack projects
 - 🌱 Exploring new technologies and best practices daily
 - 👯 Open to collaboration on innovative projects
-- 🎯 2025 Goal: Make meaningful contributions to Open Source
+- 🎯 2026 Goal: Make meaningful contributions to Open Source
 - ⚡ Fun fact: Football enthusiast - both on the pitch and in FIFA!
 - 💬 Ask me about web development, JavaScript, or anything tech
 
