@@ -52,26 +52,6 @@ I'm a passionate developer who believes in continuous growth and learning. Wheth
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Bibek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibekonchain&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bibekonchain&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekonchain&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=bibekonchain&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 ## 🌟 What I Bring to the Table
 
 ```javascript
