@@ -1,21 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! I'm Bibek Kunwar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there!
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
 
 </div>
-
-## 🚀 About Me
-
-I'm a passionate developer who believes in continuous growth and learning. Whether it's exploring new frameworks, contributing to open source, or building something from scratch, I'm always up for a challenge!
-
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Exploring new technologies and best practices daily
-- 👯 Open to collaboration on innovative projects
-- 🎯 2026 Goal: Make meaningful contributions to Open Source
-- ⚡ Fun fact: Football enthusiast - both on the pitch and in FIFA!
-- 💬 Ask me about web development, JavaScript, or anything tech
 
 ## 💻 Tech Stack
 
