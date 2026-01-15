@@ -1,11 +1,20 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there!
+## 🌟 What I Bring to the Table
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;Always+Learning+%7C+Always+Building;Open+Source+Enthusiast;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
-
-</div>
-
+```javascript
+const bibek = {
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Docker", "Git", "Postman"]
+    },
+    softSkills: ["Problem Solving", "Team Collaboration", "Effective Communication"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed!"
+};
+```
 ## 💻 Tech Stack
 
 <div align="center">
@@ -40,23 +49,6 @@
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 </div>
-
-## 🌟 What I Bring to the Table
-
-```javascript
-const bibek = {
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Docker", "Git", "Postman"]
-    },
-    softSkills: ["Problem Solving", "Team Collaboration", "Effective Communication"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed!"
-};
-```
 
 ## 🤝 Let's Connect!
 
