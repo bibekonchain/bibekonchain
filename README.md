@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there!
-## 🌟 What I Bring to the Table
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! What I Bring to the Table 🌟
 
 ```javascript
 const bibek = {
